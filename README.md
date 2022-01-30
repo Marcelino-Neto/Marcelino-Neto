@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcelino 👋
 
-👨‍💻Software developer
-📚 Estudando JavaScript e React
+- 👨‍💻Software developer <br>
+- 📚 Estudando JavaScript e React 
 
 <div align="center">
   <a href="https://github.com/Marcelino-Neto">
