@@ -13,7 +13,6 @@
  
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelino-Neto&show_icons=true&theme=dark)
 
 <div> 
   <a href = "https://www.instagram.com/marcelinont_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
