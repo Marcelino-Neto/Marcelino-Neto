@@ -13,10 +13,8 @@
  
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelino-Neto&show_icons=true&theme=dark)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-  
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelino-Neto&show_icons=true&theme=dark)
+
 <div> 
   <a href = "https://www.instagram.com/marcelinont_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatomarcelinonetors@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
